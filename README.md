@@ -7,6 +7,7 @@
 * 坚持每天健身
 * 学习英语ing，励志要说一口流利的英语！
 * 希望生活越来越好，加油！
+* 个人主页 
 ### 💻  About Me
 * Graduated and started working in 2017 🌱
 * A full-stack developer
@@ -14,8 +15,6 @@
 * Learning English and determined to speak it fluently!
 * Hoping for a better life—keep pushing forward!
 
-
-[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:baidoufuk@gmail.com)
 
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://baidoufu.cn)
@@ -47,3 +46,11 @@
 - 🌱 I’m currently learning:
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://baidoufu.cn)
   [![Python](https://img.shields.io/badge/python-black?logo=python)](https://baidoufu.cn)
+
+- 👤 Personal Homepage:
+  [![Static Badge](https://img.shields.io/badge/Blog-blue?logo=wordpress)](https://baidoufu.cn)
+
+- 📧 Contact Me:
+  [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:baidoufuk@gmail.com)
+  
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baidoufuk&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=baidoufuk&count_private=true&show_icons=true" height=145/></span>](https://baidoufu.cn)
