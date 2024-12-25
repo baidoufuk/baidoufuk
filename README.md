@@ -1,17 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Hey!+Nice+to+see+you.;Welcome+to+my+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=31&pause=1000&color=000000&width=435&lines=Hey!+Nice+to+see+you.;Welcome+to+my+page!)](https://git.io/typing-svg)
 <img align="right" src="https://count.getloli.com/get/@:baidoufuk?theme=rule34">
 
 ### 💻  关于我
 * 2017毕业参加工作🌱
 * 全栈打工仔
 * 坚持每天健身
-* 学习英语ing，励志要说一口流利的英语！
+* 坚持每天学习
+* 学习英语ing，立志要说一口流利的英语！
 * 希望生活越来越好，加油！
-* 个人主页 
+
 ### 💻  About Me
 * Graduated and started working in 2017 🌱
 * A full-stack developer
 * Committed to daily fitness
+* Persist in learning every day.
 * Learning English and determined to speak it fluently!
 * Hoping for a better life—keep pushing forward!
 
@@ -21,8 +23,6 @@
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://baidoufu.cn)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://baidoufu.cn)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://baidoufu.cn)
-  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://baidoufu.cn)
-  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://baidoufu.cn)
   [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://baidoufu.cn)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://baidoufu.cn)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://baidoufu.cn)
@@ -33,8 +33,10 @@
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://baidoufu.cn)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://baidoufu.cn)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://baidoufu.cn)
-  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://baidoufu.cn)
   [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://baidoufu.cn)
+  [![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)](https://baidoufu.cn)
+  [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse)](https://baidoufu.cn)
+
 
 - ⚙️ I also use and work:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://baidoufu.cn)
